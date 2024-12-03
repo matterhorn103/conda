@@ -4,7 +4,7 @@
 
 ### Bug fixes
 
-* Fix CI upload of coverage files for tests (#14375)
+* Sort suggested subcommands when an incorrect subcommand is provided in the CLI. (#13332 via 14402)
 
 ### Deprecations
 
